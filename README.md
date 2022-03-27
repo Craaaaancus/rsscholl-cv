@@ -1,3 +1,3 @@
-# rsscholl-cv
+# rsschool-cv
 
 https://Craaaaancus.github.io/rsschool-cv/cv
